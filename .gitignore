@@ -1,0 +1,5 @@
+.env
+chroma/
+*.docx
+*.doc
+.ipynb_checkpoints/
