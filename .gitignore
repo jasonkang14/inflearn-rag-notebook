@@ -4,3 +4,5 @@ chroma/
 *.doc
 .ipynb_checkpoints/
 inflearn-lectures/
+.DS_Store
+.venv/
